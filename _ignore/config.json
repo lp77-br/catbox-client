@@ -1,0 +1,11 @@
+{
+  "latestVersionCode": 37,
+  "latestVersionName": "3.7",
+  "updateUrl": "https://github.com/lp77-br/catbox-client/releases",
+  "forceUpdate": false,
+  "features": {
+    "optimize_download": true,
+    "transparency_fix": true,
+    "domain_lock_enabled": true
+  }
+}
