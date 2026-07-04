@@ -1,1 +1,7 @@
-
+{
+  "type": "status",
+  "fetch_config": true,
+  "config_url": "https://raw.githubusercontent.com/lp77-br/catbox-client/refs/heads/main/_ignore/config.json",
+  "fetch_popup": true,
+  "popup_url": "https://raw.githubusercontent.com/lp77-br/catbox-client/refs/heads/main/_ignore/popup.json"
+}
